@@ -22,4 +22,4 @@ Please be advised that the code provided might contain minor errors. Always cros
 
 ## Contributors
 
-These lab assignments was bulit on my own. However, final project was a team project. Special thanks to my teammate Jeongin Jang and Taehyeok Ha.
+These lab assignments was bulit on my own. However, final project was a team project. Special thanks to my teammates Jeongin Jang and Taehyeok Ha.
